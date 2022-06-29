@@ -1,7 +1,2 @@
-<html>
-<body>
-
-6/29 summer school
-
-</html>
-</body>
+* Summer School *
+# Git Hub 실습
