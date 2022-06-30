@@ -118,3 +118,11 @@ export default MyComponent;
 *****
 - - -
 -------------
+
+Link
+-----
+
+Link:[google][googlelink]
+
+[googlelink]: https://google.co.uk "Let's Go google"
+
