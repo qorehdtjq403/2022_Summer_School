@@ -162,3 +162,17 @@ Inline-style:
 
 <img src="121970_124701_3734.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 <img src="121970_124701_3734.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+
+Table
+
+| 값 | 의미 | 기본값 |
+|---|:---:|---:|
+| `static` | 유형(기준) 없음 / 배치 불가능 | `static` |
+| `relative` | 요소 자신을 기준으로 배치 | |
+| `absolute` | 위치 상 부모(조상)요소를 기준으로 배치 | |
+| `fixed` | 브라우저 창을 기준으로 배치 | |
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
