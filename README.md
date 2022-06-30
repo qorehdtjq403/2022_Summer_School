@@ -147,4 +147,9 @@ Emphasis
 
 취소선은 ~~물결표시(tilde)~~를 사용
 
+<strike> </strike>   <del> </del>
 
+
+Images
+--------
+![alt text](121970_124701_3734.jpg "Anu. Univ")
