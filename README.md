@@ -21,4 +21,20 @@
 > This is a first blockqute.
 >	> This is a second blockqute.
 
+1. 첫번째
 
+2. 두번째
+
+3. 세번째
+
+* Blue
+ * Green
+  * Red
+
++ Blue
+ + Green
+  + Red
+
+- Blue
+ - Green
+  - Red
