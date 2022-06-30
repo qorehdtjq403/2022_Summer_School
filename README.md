@@ -130,3 +130,8 @@ Link:[google][googlelink]
 
 
 [Google](https://google.co.uk "Let's Go google")
+
+
+Google Homepage: https://google.co.uk
+
+Naver Homepage: <https://naver.com>
