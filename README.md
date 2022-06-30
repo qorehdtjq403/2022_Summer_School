@@ -111,3 +111,10 @@ return <div>Foo</div>;
 }
 export default MyComponent;
 ```
+
+
+* * *
+***
+*****
+- - -
+-------------
