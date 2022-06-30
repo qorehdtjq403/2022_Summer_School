@@ -64,6 +64,8 @@
 Code Block
 -------------
 
+*< > 이용
+
 <pre>
 <code>
 class Car {
@@ -82,3 +84,16 @@ this.currentSpeed = 0;
 }
 </code>
 </pre>
+
+* " ` ` ` " 이용
+
+```
+import React from 'react';
+function MyComponent(props) {
+if (props.isBar) {
+return <div>Bar</div>;
+}
+return <div>Foo</div>;
+}
+export default MyComponent;
+```
