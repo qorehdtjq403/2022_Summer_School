@@ -122,7 +122,11 @@ export default MyComponent;
 Link
 -----
 
+// example
+
 Link:[google][googlelink]
 
 [googlelink]: https://google.co.uk "Let's Go google"
 
+
+[Google](https://google.co.uk "Let's Go google")
