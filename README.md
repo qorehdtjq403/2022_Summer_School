@@ -23,13 +23,28 @@
 
 1. 첫번째
 	* Blue
-	 * Green
-	  * Red
+	  * Green
+	    * Red
 2. 두번째
 	+ Blue
-	 + Green
- 	 + Red
+	  + Green
+ 	    + Red
 3. 세번째
 	- Blue
-	 - Green
- 	 - Red
+	  - Green
+ 	    - Red
+
+[순서가 없는 목록(글머리 기로: *, + , -)]
+
+* Blue-1
+  * Green
+    * Red
+
++ Blue
+  + Green
+    + Red
+
+- Blue
+  - Green
+    - Red
+
