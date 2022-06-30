@@ -22,19 +22,14 @@
 >	> This is a second blockqute.
 
 1. 첫번째
-
+	* Blue
+	 * Green
+	  * Red
 2. 두번째
-
+	+ Blue
+	 + Green
+ 	 + Red
 3. 세번째
-
-* Blue
- * Green
-  * Red
-
-+ Blue
- + Green
-  + Red
-
-- Blue
- - Green
-  - Red
+	- Blue
+	 - Green
+ 	 - Red
