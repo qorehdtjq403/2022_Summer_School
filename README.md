@@ -152,4 +152,7 @@ Emphasis
 
 Images
 --------
-![alt text](121970_124701_3734.jpg "Anu. Univ")
+
+Inline-style:
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
